@@ -1,0 +1,419 @@
+dsIdx,Tissue,Cancer_Type,TP53_status
+1,Lung,Small cell lung carcinoma,conformation
+2,Lung,Small cell lung carcinoma,conformation
+3,Lung,Lung adenocarcinoma,WT
+4,Lung,Lung adenocarcinoma,WT
+5,Lung,Small cell lung carcinoma,conformation
+6,Lung,Small cell lung carcinoma,conformation
+9,Lung,Lung adenocarcinoma,WT
+10,Lung,Lung adenocarcinoma,WT
+13,Lung,Lung adenocarcinoma,WT
+14,Lung,Lung adenocarcinoma,WT
+23,Lung,Small cell lung carcinoma,conformation
+24,Lung,Small cell lung carcinoma,conformation
+25,Skin,Melanoma,WT
+26,Skin,Melanoma,WT
+27,Lung,Lung adenocarcinoma,conformation
+28,Lung,Lung adenocarcinoma,conformation
+29,Lung,Lung adenocarcinoma,WT
+30,Lung,Lung adenocarcinoma,WT
+31,Lung,Lung adenocarcinoma,conformation
+32,Lung,Lung adenocarcinoma,conformation
+39,Skin,Melanoma,WT
+40,Skin,Melanoma,WT
+45,Lung,Lung adenocarcinoma,WT
+46,Lung,Lung adenocarcinoma,WT
+47,Lung,Lung adenocarcinoma,conformation
+48,Lung,Lung adenocarcinoma,conformation
+57,Skin,Melanoma,WT
+58,Skin,Melanoma,WT
+59,Lung,Lung adenocarcinoma,WT
+60,Lung,Lung adenocarcinoma,WT
+61,Lung,Small cell lung carcinoma,conformation
+62,Lung,Small cell lung carcinoma,conformation
+81,Breast,Inflammatory breast carcinoma,WT
+82,Breast,Inflammatory breast carcinoma,WT
+105,Lung,Squamous cell lung carcinoma,WT
+106,Lung,Squamous cell lung carcinoma,WT
+111,Colon,Colon carcinoma,conformation
+112,Colon,Colon carcinoma,conformation
+113,Lung,Squamous cell lung carcinoma,WT
+114,Lung,Squamous cell lung carcinoma,WT
+123,Breast,Inflammatory breast carcinoma,WT
+124,Breast,Inflammatory breast carcinoma,WT
+129,Lung,Large cell lung carcinoma,WT
+130,Lung,Large cell lung carcinoma,WT
+131,Lung,Small cell lung carcinoma,conformation
+132,Lung,Small cell lung carcinoma,conformation
+137,Breast,Inflammatory breast carcinoma,WT
+138,Breast,Inflammatory breast carcinoma,WT
+143,Lung,Small cell lung carcinoma,conformation
+144,Lung,Small cell lung carcinoma,conformation
+149,Colon,Colon carcinoma,conformation
+150,Colon,Colon carcinoma,conformation
+165,Lung,Small cell lung carcinoma,conformation
+166,Lung,Small cell lung carcinoma,conformation
+169,Colon,Colon carcinoma,conformation
+170,Colon,Colon carcinoma,conformation
+173,Lung,Large cell lung carcinoma,WT
+174,Lung,Large cell lung carcinoma,WT
+177,Lung,Small cell lung carcinoma,conformation
+178,Lung,Small cell lung carcinoma,conformation
+181,Lung,Squamous cell lung carcinoma,WT
+182,Lung,Squamous cell lung carcinoma,WT
+183,Lung,Large cell lung carcinoma,WT
+184,Lung,Large cell lung carcinoma,WT
+187,Lung,Small cell lung carcinoma,conformation
+188,Lung,Small cell lung carcinoma,conformation
+193,Skin,Melanoma,WT
+194,Skin,Melanoma,WT
+201,Lung,Pleural epithelioid mesothelioma,WT
+202,Lung,Pleural epithelioid mesothelioma,WT
+205,Skin,Melanoma,WT
+206,Skin,Melanoma,WT
+207,Breast,Breast carcinoma,WT
+208,Breast,Breast carcinoma,WT
+209,Lung,Pleural epithelioid mesothelioma,WT
+210,Lung,Pleural epithelioid mesothelioma,WT
+221,Skin,Melanoma,WT
+222,Skin,Melanoma,WT
+237,Breast,Breast carcinoma,WT
+238,Breast,Breast carcinoma,WT
+241,Breast,Breast carcinoma,WT
+242,Breast,Breast carcinoma,WT
+245,Lung,Pleural epithelioid mesothelioma,WT
+246,Lung,Pleural epithelioid mesothelioma,WT
+257,Kidney,Renal cell carcinoma,conformation
+258,Kidney,Renal cell carcinoma,conformation
+259,Skin,Melanoma,conformation
+260,Skin,Melanoma,conformation
+265,Skin,Melanoma,conformation
+266,Skin,Melanoma,conformation
+269,Skin,Melanoma,conformation
+270,Skin,Melanoma,conformation
+277,Kidney,Renal cell carcinoma,conformation
+278,Kidney,Renal cell carcinoma,conformation
+283,Breast,"Invasive ductal carcinoma, not otherwise specified",conformation
+284,Breast,"Invasive ductal carcinoma, not otherwise specified",conformation
+285,Pancreas,Pancreatic ductal adenocarcinoma,WT
+286,Pancreas,Pancreatic ductal adenocarcinoma,WT
+297,Breast,"Invasive ductal carcinoma, not otherwise specified",conformation
+298,Breast,"Invasive ductal carcinoma, not otherwise specified",conformation
+299,Pancreas,Pancreatic ductal adenocarcinoma,WT
+300,Pancreas,Pancreatic ductal adenocarcinoma,WT
+307,Pancreas,Pancreatic ductal adenocarcinoma,WT
+308,Pancreas,Pancreatic ductal adenocarcinoma,WT
+309,Breast,"Invasive ductal carcinoma, not otherwise specified",conformation
+310,Breast,"Invasive ductal carcinoma, not otherwise specified",conformation
+311,Skin,Melanoma,WT
+312,Skin,Melanoma,WT
+313,Skin,Melanoma,WT
+314,Skin,Melanoma,WT
+319,Skin,Melanoma,WT
+320,Skin,Melanoma,WT
+321,Kidney,Renal cell carcinoma,conformation
+322,Kidney,Renal cell carcinoma,conformation
+333,Skin,Amelanotic melanoma,WT
+334,Skin,Amelanotic melanoma,WT
+335,Skin,Amelanotic melanoma,WT
+336,Skin,Amelanotic melanoma,WT
+337,Skin,Amelanotic melanoma,WT
+338,Skin,Amelanotic melanoma,WT
+339,Lung,Lung adenocarcinoma,conformation
+340,Lung,Lung adenocarcinoma,conformation
+345,Lung,Lung adenocarcinoma,conformation
+346,Lung,Lung adenocarcinoma,conformation
+367,Breast,Ductal breast carcinoma,conformation
+368,Breast,Ductal breast carcinoma,conformation
+371,Breast,"Invasive ductal carcinoma, not otherwise specified",conformation
+372,Breast,"Invasive ductal carcinoma, not otherwise specified",conformation
+375,Breast,"Invasive ductal carcinoma, not otherwise specified",conformation
+376,Breast,"Invasive ductal carcinoma, not otherwise specified",conformation
+379,Lung,Lung adenocarcinoma,conformation
+380,Lung,Lung adenocarcinoma,conformation
+381,Lung,Lung adenocarcinoma,conformation
+382,Lung,Lung adenocarcinoma,conformation
+387,Breast,Ductal breast carcinoma,conformation
+388,Breast,Ductal breast carcinoma,conformation
+391,Breast,"Invasive ductal carcinoma, not otherwise specified",conformation
+392,Breast,"Invasive ductal carcinoma, not otherwise specified",conformation
+393,Lung,Lung adenocarcinoma,conformation
+394,Lung,Lung adenocarcinoma,conformation
+441,Lung,Minimally invasive lung adenocarcinoma,WT
+442,Lung,Minimally invasive lung adenocarcinoma,WT
+475,Bladder,Bladder carcinoma,conformation
+476,Bladder,Bladder carcinoma,conformation
+481,Lung,Non-small cell lung carcinoma,WT
+482,Lung,Non-small cell lung carcinoma,WT
+487,Lung,Lung adenocarcinoma,conformation
+488,Lung,Lung adenocarcinoma,conformation
+489,Lung,Lung adenocarcinoma,conformation
+490,Lung,Lung adenocarcinoma,conformation
+499,Lung,Lung adenocarcinoma,conformation
+500,Lung,Lung adenocarcinoma,conformation
+505,Lung,Large cell lung carcinoma,WT
+506,Lung,Large cell lung carcinoma,WT
+507,Lung,Minimally invasive lung adenocarcinoma,WT
+508,Lung,Minimally invasive lung adenocarcinoma,WT
+509,Lung,Lung adenocarcinoma,conformation
+510,Lung,Lung adenocarcinoma,conformation
+513,Lung,Non-small cell lung carcinoma,WT
+514,Lung,Non-small cell lung carcinoma,WT
+523,Lung,Pleural epithelioid mesothelioma,WT
+524,Lung,Pleural epithelioid mesothelioma,WT
+527,Lung,Minimally invasive lung adenocarcinoma,WT
+528,Lung,Minimally invasive lung adenocarcinoma,WT
+529,Lung,Pleural epithelioid mesothelioma,WT
+530,Lung,Pleural epithelioid mesothelioma,WT
+535,Lung,Lung adenocarcinoma,conformation
+536,Lung,Lung adenocarcinoma,conformation
+547,Lung,Lung adenocarcinoma,conformation
+548,Lung,Lung adenocarcinoma,conformation
+551,Lung,Non-small cell lung carcinoma,WT
+552,Lung,Non-small cell lung carcinoma,WT
+555,Lung,Lung adenocarcinoma,conformation
+556,Lung,Lung adenocarcinoma,conformation
+557,Lung,Lung adenocarcinoma,conformation
+558,Lung,Lung adenocarcinoma,conformation
+559,Lung,Adenosquamous lung carcinoma,conformation
+560,Lung,Adenosquamous lung carcinoma,conformation
+565,Bladder,Bladder carcinoma,conformation
+566,Bladder,Bladder carcinoma,conformation
+567,Lung,Adenosquamous lung carcinoma,conformation
+568,Lung,Adenosquamous lung carcinoma,conformation
+571,Lung,Pleural epithelioid mesothelioma,WT
+572,Lung,Pleural epithelioid mesothelioma,WT
+575,Lung,Adenosquamous lung carcinoma,conformation
+576,Lung,Adenosquamous lung carcinoma,conformation
+581,Lung,Lung adenocarcinoma,conformation
+582,Lung,Lung adenocarcinoma,conformation
+583,Bladder,Bladder carcinoma,conformation
+584,Bladder,Bladder carcinoma,conformation
+601,Pancreas,Pancreatic ductal adenocarcinoma,conformation
+602,Pancreas,Pancreatic ductal adenocarcinoma,conformation
+609,Lung,Squamous cell lung carcinoma,WT
+610,Lung,Squamous cell lung carcinoma,WT
+619,Skin,Amelanotic melanoma,WT
+620,Skin,Amelanotic melanoma,WT
+625,Lung,Squamous cell lung carcinoma,WT
+626,Lung,Squamous cell lung carcinoma,WT
+629,Pancreas,Pancreatic ductal adenocarcinoma,conformation
+630,Pancreas,Pancreatic ductal adenocarcinoma,conformation
+647,Lung,Lung adenocarcinoma,WT
+648,Lung,Lung adenocarcinoma,WT
+649,Pancreas,Pancreatic ductal adenocarcinoma,conformation
+650,Pancreas,Pancreatic ductal adenocarcinoma,conformation
+655,Pancreas,Pancreatic carcinoma,WT
+656,Pancreas,Pancreatic carcinoma,WT
+673,Lung,Lung mucoepidermoid carcinoma,WT
+674,Lung,Lung mucoepidermoid carcinoma,WT
+687,Lung,Lung mucoepidermoid carcinoma,WT
+688,Lung,Lung mucoepidermoid carcinoma,WT
+695,Lung,Lung adenocarcinoma,WT
+696,Lung,Lung adenocarcinoma,WT
+699,Lung,Lung mucoepidermoid carcinoma,WT
+700,Lung,Lung mucoepidermoid carcinoma,WT
+701,Skin,Amelanotic melanoma,WT
+702,Skin,Amelanotic melanoma,WT
+705,Skin,Amelanotic melanoma,WT
+706,Skin,Amelanotic melanoma,WT
+715,Pancreas,Pancreatic carcinoma,WT
+716,Pancreas,Pancreatic carcinoma,WT
+729,Kidney,Renal cell carcinoma,WT
+730,Kidney,Renal cell carcinoma,WT
+737,Kidney,Renal cell carcinoma,WT
+738,Kidney,Renal cell carcinoma,WT
+745,Bladder,Recurrent bladder carcinoma,WT
+746,Bladder,Recurrent bladder carcinoma,WT
+747,Lung,Lung adenocarcinoma,conformation
+748,Lung,Lung adenocarcinoma,conformation
+759,Lung,Lung adenocarcinoma,WT
+760,Lung,Lung adenocarcinoma,WT
+761,Lung,Non-small cell lung carcinoma,conformation
+762,Lung,Non-small cell lung carcinoma,conformation
+763,Bladder,Recurrent bladder carcinoma,WT
+764,Bladder,Recurrent bladder carcinoma,WT
+765,Kidney,Papillary renal cell carcinoma,WT
+766,Kidney,Papillary renal cell carcinoma,WT
+769,Lung,Lung adenocarcinoma,conformation
+770,Lung,Lung adenocarcinoma,conformation
+771,Lung,Lung adenocarcinoma,WT
+772,Lung,Lung adenocarcinoma,WT
+773,Lung,Minimally invasive lung adenocarcinoma,WT
+774,Lung,Minimally invasive lung adenocarcinoma,WT
+775,Lung,Lung adenocarcinoma,conformation
+776,Lung,Lung adenocarcinoma,conformation
+777,Kidney,Papillary renal cell carcinoma,WT
+778,Kidney,Papillary renal cell carcinoma,WT
+781,Lung,Minimally invasive lung adenocarcinoma,WT
+782,Lung,Minimally invasive lung adenocarcinoma,WT
+783,Bladder,Recurrent bladder carcinoma,WT
+784,Bladder,Recurrent bladder carcinoma,WT
+785,Lung,Non-small cell lung carcinoma,conformation
+786,Lung,Non-small cell lung carcinoma,conformation
+787,Lung,Lung adenocarcinoma,WT
+788,Lung,Lung adenocarcinoma,WT
+789,Lung,Lung adenocarcinoma,WT
+790,Lung,Lung adenocarcinoma,WT
+799,Lung,Non-small cell lung carcinoma,conformation
+800,Lung,Non-small cell lung carcinoma,conformation
+803,Kidney,Papillary renal cell carcinoma,WT
+804,Kidney,Papillary renal cell carcinoma,WT
+811,Lung,Lung adenocarcinoma,WT
+812,Lung,Lung adenocarcinoma,WT
+821,Lung,Minimally invasive lung adenocarcinoma,WT
+822,Lung,Minimally invasive lung adenocarcinoma,WT
+823,Lung,Lung adenocarcinoma,WT
+824,Lung,Lung adenocarcinoma,WT
+833,Pancreas,Pancreatic adenocarcinoma,conformation
+834,Pancreas,Pancreatic adenocarcinoma,conformation
+841,Bladder,Bladder carcinoma,WT
+842,Bladder,Bladder carcinoma,WT
+845,Pancreas,Pancreatic ductal adenocarcinoma,conformation
+846,Pancreas,Pancreatic ductal adenocarcinoma,conformation
+847,Bladder,Bladder carcinoma,WT
+848,Bladder,Bladder carcinoma,WT
+849,Pancreas,Pancreatic ductal adenocarcinoma,conformation
+850,Pancreas,Pancreatic ductal adenocarcinoma,conformation
+859,Skin,Cutaneous melanoma,WT
+860,Skin,Cutaneous melanoma,WT
+869,Skin,Cutaneous melanoma,WT
+870,Skin,Cutaneous melanoma,WT
+873,Pancreas,Pancreatic ductal adenocarcinoma,conformation
+874,Pancreas,Pancreatic ductal adenocarcinoma,conformation
+875,Bladder,Bladder carcinoma,WT
+876,Bladder,Bladder carcinoma,WT
+883,Skin,Cutaneous melanoma,WT
+884,Skin,Cutaneous melanoma,WT
+891,Pancreas,Pancreatic adenocarcinoma,conformation
+892,Pancreas,Pancreatic adenocarcinoma,conformation
+901,Pancreas,Pancreatic adenocarcinoma,conformation
+902,Pancreas,Pancreatic adenocarcinoma,conformation
+903,Kidney,Renal cell carcinoma,WT
+904,Kidney,Renal cell carcinoma,WT
+913,Lung,Lung adenocarcinoma,conformation
+914,Lung,Lung adenocarcinoma,conformation
+917,Lung,Squamous cell lung carcinoma,conformation
+918,Lung,Squamous cell lung carcinoma,conformation
+919,Lung,Lung adenocarcinoma,WT
+920,Lung,Lung adenocarcinoma,WT
+925,Bladder,Bladder carcinoma,WT
+926,Bladder,Bladder carcinoma,WT
+927,Lung,Lung adenocarcinoma,WT
+928,Lung,Lung adenocarcinoma,WT
+939,Ovary,High grade ovarian serous adenocarcinoma,WT
+940,Ovary,High grade ovarian serous adenocarcinoma,WT
+947,Kidney,Clear cell renal cell carcinoma,WT
+948,Kidney,Clear cell renal cell carcinoma,WT
+953,Ovary,High grade ovarian serous adenocarcinoma,WT
+954,Ovary,High grade ovarian serous adenocarcinoma,WT
+955,Lung,Lung adenocarcinoma,WT
+956,Lung,Lung adenocarcinoma,WT
+959,Bladder,Bladder carcinoma,WT
+960,Bladder,Bladder carcinoma,WT
+961,Bladder,Bladder carcinoma,WT
+962,Bladder,Bladder carcinoma,WT
+967,Kidney,Renal cell carcinoma,WT
+968,Kidney,Renal cell carcinoma,WT
+971,Ovary,High grade ovarian serous adenocarcinoma,WT
+972,Ovary,High grade ovarian serous adenocarcinoma,WT
+981,Lung,Minimally invasive lung adenocarcinoma,WT
+982,Lung,Minimally invasive lung adenocarcinoma,WT
+983,Lung,Squamous cell lung carcinoma,conformation
+984,Lung,Squamous cell lung carcinoma,conformation
+985,Bladder,Bladder carcinoma,WT
+986,Bladder,Bladder carcinoma,WT
+995,Kidney,Clear cell renal cell carcinoma,WT
+996,Kidney,Clear cell renal cell carcinoma,WT
+999,Kidney,Clear cell renal cell carcinoma,WT
+1000,Kidney,Clear cell renal cell carcinoma,WT
+1001,Lung,Minimally invasive lung adenocarcinoma,WT
+1002,Lung,Minimally invasive lung adenocarcinoma,WT
+1017,Bladder,Bladder carcinoma,WT
+1018,Bladder,Bladder carcinoma,WT
+1023,Bladder,Bladder carcinoma,WT
+1024,Bladder,Bladder carcinoma,WT
+1025,Lung,Squamous cell lung carcinoma,conformation
+1026,Lung,Squamous cell lung carcinoma,conformation
+1027,Lung,Lung adenocarcinoma,conformation
+1028,Lung,Lung adenocarcinoma,conformation
+1039,Lung,Minimally invasive lung adenocarcinoma,WT
+1040,Lung,Minimally invasive lung adenocarcinoma,WT
+1045,Kidney,Renal cell carcinoma,WT
+1046,Kidney,Renal cell carcinoma,WT
+1049,Unknown,Unknown,WT
+1050,Unknown,Unknown,WT
+1051,Bladder,Bladder carcinoma,WT
+1052,Bladder,Bladder carcinoma,WT
+1053,Bladder,Bladder carcinoma,WT
+1054,Bladder,Bladder carcinoma,WT
+1057,Pancreas,Pancreatic ductal adenocarcinoma,WT
+1058,Pancreas,Pancreatic ductal adenocarcinoma,WT
+1061,Lung,Lung adenocarcinoma,conformation
+1062,Lung,Lung adenocarcinoma,conformation
+1063,Colon,Colon carcinoma,WT
+1064,Colon,Colon carcinoma,WT
+1073,Bladder,Bladder carcinoma,WT
+1074,Bladder,Bladder carcinoma,WT
+1079,Colon,Colon carcinoma,WT
+1080,Colon,Colon carcinoma,WT
+1083,Bladder,Bladder carcinoma,WT
+1084,Bladder,Bladder carcinoma,WT
+1091,Lung,Lung adenocarcinoma,WT
+1092,Lung,Lung adenocarcinoma,WT
+1095,Pancreas,Pancreatic ductal adenocarcinoma,WT
+1096,Pancreas,Pancreatic ductal adenocarcinoma,WT
+1099,Unknown,Unknown,WT
+1100,Unknown,Unknown,WT
+1101,Lung,Lung adenocarcinoma,conformation
+1102,Lung,Lung adenocarcinoma,conformation
+1103,Colon,Colon carcinoma,WT
+1104,Colon,Colon carcinoma,WT
+1105,Lung,Minimally invasive lung adenocarcinoma,WT
+1106,Lung,Minimally invasive lung adenocarcinoma,WT
+1107,Bladder,Bladder carcinoma,WT
+1108,Bladder,Bladder carcinoma,WT
+1109,Lung,Lung adenocarcinoma,conformation
+1110,Lung,Lung adenocarcinoma,conformation
+1113,Lung,Minimally invasive lung adenocarcinoma,WT
+1114,Lung,Minimally invasive lung adenocarcinoma,WT
+1119,Bladder,Bladder carcinoma,WT
+1120,Bladder,Bladder carcinoma,WT
+1123,Unknown,Unknown,WT
+1124,Unknown,Unknown,WT
+1125,Pancreas,Pancreatic ductal adenocarcinoma,WT
+1126,Pancreas,Pancreatic ductal adenocarcinoma,WT
+1133,Bladder,Bladder carcinoma,WT
+1134,Bladder,Bladder carcinoma,WT
+1135,Lung,Lung adenocarcinoma,WT
+1136,Lung,Lung adenocarcinoma,WT
+1143,Bladder,Bladder carcinoma,WT
+1144,Bladder,Bladder carcinoma,WT
+1145,Bladder,Bladder carcinoma,WT
+1146,Bladder,Bladder carcinoma,WT
+1159,Lung,Minimally invasive lung adenocarcinoma,WT
+1160,Lung,Minimally invasive lung adenocarcinoma,WT
+1177,Blood,Adult acute myeloid leukemia,WT
+1178,Blood,Adult acute myeloid leukemia,WT
+1179,Lung,Small cell lung carcinoma,WT
+1180,Lung,Small cell lung carcinoma,WT
+1195,Lung,Small cell lung carcinoma,WT
+1196,Lung,Small cell lung carcinoma,WT
+1201,Lung,Small cell lung carcinoma,WT
+1202,Lung,Small cell lung carcinoma,WT
+1217,Breast,Breast carcinoma,WT
+1218,Breast,Breast carcinoma,WT
+1219,Kidney,Renal cell carcinoma,WT
+1220,Kidney,Renal cell carcinoma,WT
+1231,Blood,Adult acute myeloid leukemia,WT
+1232,Blood,Adult acute myeloid leukemia,WT
+1243,Breast,Breast carcinoma,WT
+1244,Breast,Breast carcinoma,WT
+1259,Kidney,Renal cell carcinoma,WT
+1260,Kidney,Renal cell carcinoma,WT
+1283,Blood,Adult acute myeloid leukemia,WT
+1284,Blood,Adult acute myeloid leukemia,WT
+1287,Kidney,Renal cell carcinoma,WT
+1288,Kidney,Renal cell carcinoma,WT
+1293,Breast,Breast carcinoma,WT
+1294,Breast,Breast carcinoma,WT
