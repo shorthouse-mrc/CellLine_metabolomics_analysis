@@ -1,0 +1,8 @@
+,source,native,name,p_value,significant,description,term_size,query_size,intersection_size,effective_domain_size,precision,recall,query,parents
+0,REAC,REAC:R-HSA-416572,Sema4D induced cell migration and growth-cone collapse,2.4994004223257918e-05,True,Sema4D induced cell migration and growth-cone collapse,20,23,4,10543,2.1739130434782608,0.2,query_1,['REAC:R-HSA-400685']
+1,REAC,REAC:R-HSA-400685,Sema4D in semaphorin signaling,5.450091294786575e-05,True,Sema4D in semaphorin signaling,24,23,4,10543,2.1739130434782608,0.16666666666666666,query_1,['REAC:R-HSA-373755']
+2,KEGG,KEGG:05200,Pathways in cancer,0.0011239843731787786,True,Pathways in cancer,529,25,9,8001,1.3599999999999999,0.017013232514177693,query_1,['KEGG:00000']
+3,REAC,REAC:R-HSA-373755,Semaphorin interactions,0.0030759123953269783,True,Semaphorin interactions,64,23,4,10543,2.1739130434782608,0.0625,query_1,['REAC:R-HSA-422475']
+11,KEGG,KEGG:04151,PI3K-Akt signaling pathway,0.03895206080842073,True,PI3K-Akt signaling pathway,353,25,6,8001,1.24,0.0169971671388102,query_1,['KEGG:00000']
+12,GO:BP,GO:0042127,regulation of cell population proliferation,0.043501464346470724,True,"""Any process that modulates the frequency, rate or extent of cell proliferation."" [GOC:jl]",1774,32,12,18117,0.375,0.006764374295377677,query_1,"['GO:0008283', 'GO:0050794']"
+14,REAC,REAC:R-HSA-9634285,Constitutive Signaling by Overexpressed ERBB2,0.049809137557409434,True,Constitutive Signaling by Overexpressed ERBB2,9,23,2,10543,2.0869565217391304,0.2222222222222222,query_1,['REAC:R-HSA-1227990']

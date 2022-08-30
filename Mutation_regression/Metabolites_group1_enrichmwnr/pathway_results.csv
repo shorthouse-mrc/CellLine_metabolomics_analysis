@@ -1,0 +1,34 @@
+"","Total","Expected","Hits","Raw p","-log10(p)","Holm adjust","FDR","Impact"
+"Starch and sucrose metabolism",18,1.1729,4,0.025579,1.5921,1,0.76144,0.12329
+"Pentose and glucuronate interconversions",18,1.1729,4,0.025579,1.5921,1,0.76144,0.32812
+"Galactose metabolism",27,1.7594,5,0.027194,1.5655,1,0.76144,0.27517
+"Ascorbate and aldarate metabolism",8,0.52129,2,0.091004,1.0409,1,1,0.5
+"Inositol phosphate metabolism",30,1.9548,4,0.12653,0.8978,1,1,0.11194
+"Phosphatidylinositol signaling system",28,1.8245,3,0.27361,0.56287,1,1,0.12992
+"Linoleic acid metabolism",5,0.32581,1,0.28635,0.54311,1,1,0
+"Thiamine metabolism",7,0.45613,1,0.37663,0.42408,1,1,0
+"Taurine and hypotaurine metabolism",8,0.52129,1,0.41743,0.37941,1,1,0
+"Vitamin B6 metabolism",9,0.58645,1,0.45559,0.34142,1,1,0
+"alpha-Linolenic acid metabolism",13,0.8471,1,0.585,0.23284,1,1,0
+"Glycosylphosphatidylinositol (GPI)-anchor biosynthesis",14,0.91226,1,0.61227,0.21305,1,1,0.00399
+"Cysteine and methionine metabolism",33,2.1503,2,0.64586,0.18986,1,1,0.09592
+"Glycerophospholipid metabolism",36,2.3458,2,0.6932,0.15914,1,1,0.19895
+"Terpenoid backbone biosynthesis",18,1.1729,1,0.70471,0.15199,1,1,0.15873
+"Amino sugar and nucleotide sugar metabolism",37,2.411,2,0.70779,0.1501,1,1,0.01991
+"Arginine and proline metabolism",38,2.4761,2,0.7218,0.14158,1,1,0.02346
+"Pantothenate and CoA biosynthesis",19,1.2381,1,0.72418,0.14015,1,1,0
+"Pyrimidine metabolism",39,2.5413,2,0.73525,0.13356,1,1,0.16419
+"Citrate cycle (TCA cycle)",20,1.3032,1,0.74237,0.12938,1,1,0
+"Sphingolipid metabolism",21,1.3684,1,0.75938,0.11954,1,1,0
+"Pentose phosphate pathway",22,1.4335,1,0.77527,0.11054,1,1,0
+"Propanoate metabolism",23,1.4987,1,0.79013,0.1023,1,1,0.04061
+"Primary bile acid biosynthesis",46,2.9974,2,0.8148,0.088949,1,1,0.01954
+"Glutathione metabolism",28,1.8245,1,0.85101,0.070065,1,1,0.00343
+"Porphyrin and chlorophyll metabolism",30,1.9548,1,0.87014,0.060413,1,1,0.05288
+"Glycine, serine and threonine metabolism",33,2.1503,1,0.89436,0.04849,1,1,0
+"Arachidonic acid metabolism",36,2.3458,1,0.91409,0.039009,1,1,0
+"Purine metabolism",65,4.2355,2,0.93469,0.029332,1,1,0.01217
+"Tryptophan metabolism",41,2.6716,1,0.9392,0.027241,1,1,0
+"Tyrosine metabolism",42,2.7368,1,0.94327,0.025364,1,1,0
+"Aminoacyl-tRNA biosynthesis",48,3.1277,1,0.9626,0.016553,1,1,0
+"Metabolism of xenobiotics by cytochrome P450",68,4.431,1,0.99079,0.004018,1,1,0.05612
