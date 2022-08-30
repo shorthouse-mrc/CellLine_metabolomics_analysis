@@ -1,0 +1,98 @@
+Pathway,Cisplatin,index
+Steroid Biosynthesis,-0.9221053540363238,0
+Methionine Metabolism,-0.8694167587129372,1
+Catecholamine Biosynthesis,-0.7411637378203538,2
+Histidine Metabolism,-0.6938855318062597,3
+beta-Alanine Metabolism,-0.607149946493069,4
+Glutathione Metabolism,-0.5931335608814703,5
+Betaine Metabolism,-0.5885368730408894,6
+Pantothenate and CoA Biosynthesis,-0.520342925378122,7
+Folate Metabolism,-0.4555948639608014,8
+Pyruvaldehyde Degradation,-0.4216659707482709,9
+Homocysteine Degradation,-0.3925264878460616,10
+Vitamin K Metabolism,-0.3845036769093947,11
+Caffeine Metabolism,-0.35126173572045666,12
+Phenylacetate Metabolism,-0.32831880313644235,13
+De Novo Triacylglycerol Biosynthesis,-0.32096936206470245,14
+Glycerol Phosphate Shuttle,-0.3184549900622065,15
+Riboflavin Metabolism,-0.3157923780794221,16
+Mitochondrial Beta-Oxidation of Short Chain Saturated Fatty Acids,-0.294789378898804,17
+Vitamin B6 Metabolism,-0.27970632349156943,18
+Biotin Metabolism,-0.2599607538023451,19
+Spermidine and Spermine Biosynthesis,-0.2409299602860953,20
+Pterine Biosynthesis,-0.17718702579624876,21
+Thyroid Hormone Synthesis,-0.16343779739420025,22
+D-Arginine and D-Ornithine Metabolism,-0.06131955152801988,23
+Thiamine Metabolism,0.25035752781332604,24
+Lactose Degradation,0.28488702862506593,25
+Mitochondrial Beta-Oxidation of Medium Chain Saturated Fatty Acids,0.3635384717003669,26
+Sulfate_Sulfite Metabolism,0.3694258467250903,27
+Cardiolipin Biosynthesis,0.3696000970545834,28
+Trehalose Degradation,0.3732908966638716,29
+Ethanol Degradation,0.4418798291569949,30
+Methylhistidine Metabolism,0.4431706824020611,31
+Mitochondrial Electron Transport Chain,0.4542851213041301,32
+Mitochondrial Beta-Oxidation of Long Chain Saturated Fatty Acids,0.4956532395284005,33
+Fatty Acid Metabolism,0.4956532395284005,34
+Plasmalogen Synthesis,0.5138498858267304,35
+Ubiquinone Biosynthesis,0.5159387172965328,36
+Alpha Linolenic Acid and Linoleic Acid Metabolism,0.5502931466524149,37
+Taurine and Hypotaurine Metabolism,0.5636082463821692,38
+Threonine and 2-Oxobutanoate Degradation,0.5709068590781371,39
+Porphyrin Metabolism,0.5845671454399971,40
+Glycerolipid Metabolism,0.5964497850097555,41
+Lysine Degradation,0.6080345675060677,42
+Arachidonic Acid Metabolism,0.6313593903679807,43
+Tryptophan Metabolism,0.6572154527628993,44
+Ammonia Recycling,0.6782545766792494,45
+Galactose Metabolism,0.6915271251820029,46
+Bile Acid Biosynthesis,0.7247107486486124,47
+Glucose-Alanine Cycle,0.7359891583559585,48
+Cysteine Metabolism,0.7366139085565327,49
+Aspartate Metabolism,0.7448751275310218,50
+Selenoamino Acid Metabolism,0.7495052111649204,51
+Fatty Acid Elongation in Mitochondria,0.8055792649781626,52
+Fatty Acid Biosynthesis,0.8270439331298518,53
+Oxidation of Branched-Chain Fatty Acids,0.8339795025822039,54
+Glycolysis,0.8953737918722021,55
+Pentose Phosphate Pathway,0.9289488047860638,56
+Starch and Sucrose Metabolism,0.9372953720699548,57
+Sphingolipid Metabolism,0.9699086689688192,58
+Phenylalanine and Tyrosine Metabolism,0.9723848287551716,59
+Fructose and Mannose Degradation,0.9988097999175338,60
+Tyrosine Metabolism,1.0282892801574002,61
+Phytanic Acid Peroxisomal Oxidation,1.0313139344186757,62
+Nicotinate and Nicotinamide Metabolism,1.0428221140863572,63
+Glycine and Serine Metabolism,1.0635389187398747,64
+Butyrate Metabolism,1.0664958199216197,65
+Androgen and Estrogen Metabolism,1.0703981338571946,66
+Estrone Metabolism,1.0703981338571946,67
+Lactose Synthesis,1.1222300402524672,68
+Arginine and Proline Metabolism,1.1542917873150955,69
+Steroidogenesis,1.1821322653461626,70
+Alanine Metabolism,1.2571242766052075,71
+Retinol Metabolism,1.2963732297241537,72
+Androstenedione Metabolism,1.3379728311532175,73
+Nucleotide Sugars Metabolism,1.3438860964798387,74
+Urea Cycle,1.3549066773756968,75
+Pyruvate Metabolism,1.3988869418043586,76
+Glutamate Metabolism,1.4016907293710037,77
+Pyrimidine Metabolism,1.5067973025434658,78
+Inositol Phosphate Metabolism,1.5255343509371495,79
+Beta Oxidation of Very Long Chain Fatty Acids,1.6956280689156251,80
+Warburg Effect,1.9018909798301336,81
+Purine Metabolism,1.9073368074683088,82
+Phosphatidylinositol Phosphate Metabolism,1.9249813254811572,83
+Gluconeogenesis,1.9549625111029827,84
+Carnitine Synthesis,1.97148988946915,85
+Citric Acid Cycle,1.9795610955438423,86
+Transfer of Acetyl Groups into Mitochondria,2.142253862311972,87
+Ketone Body Metabolism,2.1450636719880833,88
+Propanoate Metabolism,2.153695711400108,89
+Amino Sugar Metabolism,2.153695711400108,90
+"Valine, Leucine, and Isoleucine Degradation",2.2047915859483167,91
+Malate-Aspartate Shuttle,2.2464972756525934,92
+Inositol Metabolism,2.3132706812363835,93
+Phosphatidylcholine Biosynthesis,2.404557762443353,94
+Phosphatidylethanolamine Biosynthesis,2.404557762443353,95
+Phospholipid Biosynthesis,3.870165401806792,96
