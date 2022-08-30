@@ -1,0 +1,27 @@
+"","Total","Expected","Hits","Raw p","-log10(p)","Holm adjust","FDR","Impact"
+"Citrate cycle (TCA cycle)",20,0.58065,6,1.218e-05,4.9143,0.0010232,0.0010232,0.32524
+"Pyruvate metabolism",22,0.63871,4,0.0030967,2.5091,0.25702,0.088651,0.24157
+"Glycerophospholipid metabolism",36,1.0452,5,0.0031661,2.4995,0.25962,0.088651,0.38041
+"Arginine biosynthesis",14,0.40645,3,0.0066566,2.1768,0.53918,0.13979,0.11675
+"Glyoxylate and dicarboxylate metabolism",32,0.92903,4,0.012311,1.9097,0.98487,0.20682,0.05556
+"Sphingolipid metabolism",21,0.60968,3,0.0211,1.6757,1,0.2954,0.1927
+"Alanine, aspartate and glutamate metabolism",28,0.8129,3,0.045136,1.3455,1,0.54163,0.02403
+"Pentose and glucuronate interconversions",18,0.52258,2,0.093972,1.027,1,0.9867,0.125
+"Linoleic acid metabolism",5,0.14516,1,0.13714,0.86283,1,1,0
+"Ascorbate and aldarate metabolism",8,0.23226,1,0.21041,0.67694,1,1,0.5
+"Glycine, serine and threonine metabolism",33,0.95806,2,0.24826,0.60509,1,1,0
+"alpha-Linolenic acid metabolism",13,0.37742,1,0.31922,0.49591,1,1,0
+"Glycosylphosphatidylinositol (GPI)-anchor biosynthesis",14,0.40645,1,0.33915,0.4696,1,1,0.00399
+"Glycerolipid metabolism",16,0.46452,1,0.37732,0.42329,1,1,0.01246
+"Histidine metabolism",16,0.46452,1,0.37732,0.42329,1,1,0.09016
+"Pantothenate and CoA biosynthesis",19,0.55161,1,0.43056,0.36596,1,1,0.175
+"beta-Alanine metabolism",21,0.60968,1,0.46355,0.3339,1,1,0.05597
+"Glycolysis / Gluconeogenesis",26,0.75484,1,0.53808,0.26916,1,1,0.08802
+"Folate biosynthesis",27,0.78387,1,0.55171,0.25829,1,1,0
+"Phosphatidylinositol signaling system",28,0.8129,1,0.56496,0.24798,1,1,0.00152
+"Inositol phosphate metabolism",30,0.87097,1,0.59031,0.22892,1,1,0
+"Cysteine and methionine metabolism",33,0.95806,1,0.62566,0.20366,1,1,0.17854
+"Arachidonic acid metabolism",36,1.0452,1,0.65801,0.18177,1,1,0
+"Fatty acid degradation",39,1.1323,1,0.68763,0.16265,1,1,0.12404
+"Tyrosine metabolism",42,1.2194,1,0.71473,0.14586,1,1,0.02463
+"Purine metabolism",65,1.8871,1,0.85862,0.066198,1,1,0.01217

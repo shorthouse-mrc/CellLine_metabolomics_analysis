@@ -1,0 +1,16 @@
+"","Total","Expected","Hits","Raw p","-log10(p)","Holm adjust","FDR","Impact"
+"Sphingolipid metabolism",21,0.27097,2,0.028688,1.5423,1,1,0.02434
+"Linoleic acid metabolism",5,0.064516,1,0.062952,1.201,1,1,0
+"Glycerophospholipid metabolism",36,0.46452,2,0.076707,1.1152,1,1,0.19895
+"Taurine and hypotaurine metabolism",8,0.10323,1,0.098896,1.0048,1,1,0
+"alpha-Linolenic acid metabolism",13,0.16774,1,0.15591,0.80713,1,1,0
+"Glycosylphosphatidylinositol (GPI)-anchor biosynthesis",14,0.18065,1,0.16689,0.77756,1,1,0.00399
+"Arginine biosynthesis",14,0.18065,1,0.16689,0.77756,1,1,0.11675
+"Pantothenate and CoA biosynthesis",19,0.24516,1,0.2198,0.65796,1,1,0.02143
+"Alanine, aspartate and glutamate metabolism",28,0.36129,1,0.3071,0.51272,1,1,0.02163
+"Cysteine and methionine metabolism",33,0.42581,1,0.3515,0.45407,1,1,0.00095
+"Glycine, serine and threonine metabolism",33,0.42581,1,0.3515,0.45407,1,1,0.0242
+"Arachidonic acid metabolism",36,0.46452,1,0.37683,0.42386,1,1,0
+"Tryptophan metabolism",41,0.52903,1,0.41697,0.3799,1,1,0
+"Steroid biosynthesis",42,0.54194,1,0.4247,0.37192,1,1,0
+"Purine metabolism",65,0.83871,1,0.57777,0.23824,1,1,0.01217

@@ -1,0 +1,9 @@
+"","Total","Expected","Hits","Raw p","-log10(p)","Holm adjust","FDR","Impact"
+"Alanine, aspartate and glutamate metabolism",28,0.28903,3,0.0025282,2.5972,0.21237,0.21237,0.10817
+"Sphingolipid metabolism",21,0.21677,2,0.018719,1.7277,1,0.78618,0.02434
+"Arginine and proline metabolism",38,0.39226,2,0.056589,1.2473,1,1,0.08131
+"Arginine biosynthesis",14,0.14452,1,0.13574,0.86729,1,1,0.11675
+"Pentose and glucuronate interconversions",18,0.18581,1,0.17123,0.76643,1,1,0.14062
+"Cysteine and methionine metabolism",33,0.34065,1,0.2925,0.53387,1,1,0.00095
+"Glycine, serine and threonine metabolism",33,0.34065,1,0.2925,0.53387,1,1,0.0242
+"Tryptophan metabolism",41,0.42323,1,0.35017,0.45572,1,1,0

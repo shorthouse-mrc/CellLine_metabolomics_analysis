@@ -1,0 +1,10 @@
+"","Total","Expected","Hits","Raw p","-log10(p)","Holm adjust","FDR","Impact"
+"Glycerophospholipid metabolism",36,0.25548,4,7.2193e-05,4.1415,0.0060643,0.0060643,0.36305
+"Linoleic acid metabolism",5,0.035484,1,0.035028,1.4556,1,1,0
+"alpha-Linolenic acid metabolism",13,0.092258,1,0.08876,1.0518,1,1,0
+"Glycosylphosphatidylinositol (GPI)-anchor biosynthesis",14,0.099355,1,0.095281,1.021,1,1,0.00399
+"Glycerolipid metabolism",16,0.11355,1,0.1082,0.96578,1,1,0.01246
+"Pentose and glucuronate interconversions",18,0.12774,1,0.12095,0.91741,1,1,0.14062
+"Sphingolipid metabolism",21,0.14903,1,0.13976,0.85463,1,1,0.0142
+"Phosphatidylinositol signaling system",28,0.19871,1,0.18224,0.73936,1,1,0.00152
+"Arachidonic acid metabolism",36,0.25548,1,0.22844,0.64122,1,1,0

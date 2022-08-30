@@ -1,0 +1,10 @@
+# PID of current job: 413298
+mSet<-InitDataObjects("conc", "pathora", FALSE)
+cmpd.vec<-c("Propyl alcohol","Isopropyl alcohol","O-Phosphoethanolamine","Oenanthic ether","Pelargonic acid","N-Nonanoylglycine","Epsilon-(gamma-Glutamyl)-lysine","L-a-glutamyl-L-Lysine","2-Phenylethanol glucuronide","CPA(16:0/0:0)","11-Hydroxyeicosatetraenoate glyceryl ester","2-(14,15-Epoxyeicosatrienoyl) Glycerol","CPA(18:0/0:0)","LPA(0:0/18:1(9Z))","LPA(18:1(9Z)/0:0)","DHAP(18:0)","Glucosylgalactosyl hydroxylysine","DG(14:1(9Z)/15:0/0:0)","DG(15:0/14:1(9Z)/0:0)","PC(14:0/P-16:0)","PE(15:0/P-18:0)","PC(P-16:0/14:0)","PE(P-18:0/15:0)","PC(o-14:0/16:1(9Z))","PC(o-16:0/14:1(9Z))","PC(15:0/18:2(9Z,12Z))","PC(18:2(9Z,12Z)/15:0)","PE(14:0/22:2(13Z,16Z))","PE(14:1(9Z)/22:1(13Z))","PE(16:0/20:2(11Z,14Z))","PE(16:1(9Z)/20:1(11Z))","PE(18:0/18:2(9Z,12Z))","PE(18:1(11Z)/18:1(11Z))","PE(18:1(11Z)/18:1(9Z))","PE(18:1(9Z)/18:1(11Z))","PE(18:1(9Z)/18:1(9Z))","PE(18:2(9Z,12Z)/18:0)","PE(20:1(11Z)/16:1(9Z))","PE(20:2(11Z,14Z)/16:0)","PE(22:1(13Z)/14:1(9Z))","PE(22:2(13Z,16Z)/14:0)","PE(22:4(7Z,10Z,13Z,16Z)/P-18:1(11Z))","PE(22:4(7Z,10Z,13Z,16Z)/P-18:1(9Z))","PE(22:5(4Z,7Z,10Z,13Z,16Z)/dm18:0)","PE(22:5(7Z,10Z,13Z,16Z,19Z)/P-18:0)","PE(P-18:0/22:5(4Z,7Z,10Z,13Z,16Z))","PE(P-18:0/22:5(7Z,10Z,13Z,16Z,19Z))","PE(P-18:1(11Z)/22:4(7Z,10Z,13Z,16Z))","PE(P-18:1(9Z)/22:4(7Z,10Z,13Z,16Z))","PE(18:4(6Z,9Z,12Z,15Z)/22:6(4Z,7Z,10Z,13Z,16Z,19Z))","PE(20:5(5Z,8Z,11Z,14Z,17Z)/20:5(5Z,8Z,11Z,14Z,17Z))","PE(22:6(4Z,7Z,10Z,13Z,16Z,19Z)/18:4(6Z,9Z,12Z,15Z))","PS(18:0/18:2(9Z,12Z))","PS(18:1(9Z)/18:1(9Z))","PS(18:2(9Z,12Z)/18:0)","PG(18:0/18:0)","PS(18:3(9Z,12Z,15Z)/22:6(4Z,7Z,10Z,13Z,16Z,19Z))","PS(22:6(4Z,7Z,10Z,13Z,16Z,19Z)/18:3(9Z,12Z,15Z))","PIP(16:0/18:1(11Z))","PIP(16:0/18:1(9Z))","PIP(18:0/16:1(9Z))","PIP(18:1(11Z)/16:0)","PIP(18:1(9Z)/16:0)","Dynorphin A 1-8")
+mSet<-Setup.MapData(mSet, cmpd.vec);
+mSet<-CrossReferencing(mSet, "name");
+mSet<-CreateMappingResultTable(mSet)
+mSet<-SetKEGG.PathLib(mSet, "hsa", "current")
+mSet<-SetMetabolomeFilter(mSet, F);
+mSet<-CalculateOraScore(mSet, "rbc", "hyperg")
+mSet<-PlotPathSummary(mSet, F, "path_view_0_", "png", 72, width=NA)
