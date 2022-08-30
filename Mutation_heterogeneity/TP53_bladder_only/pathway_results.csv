@@ -1,0 +1,57 @@
+"","Total","Expected","Hits","Raw p","-log10(p)","Holm adjust","FDR","Impact"
+"Citrate cycle (TCA cycle)",20,3.3935,10,0.00063263,3.1988,0.053141,0.053141,0.55887
+"Glyoxylate and dicarboxylate metabolism",32,5.4297,11,0.012324,1.9092,1,0.41795,0.19842
+"Glycolysis / Gluconeogenesis",26,4.4116,9,0.021922,1.6591,1,0.41795,0.45125
+"Pyruvate metabolism",22,3.7329,8,0.022335,1.651,1,0.41795,0.68482
+"Butanoate metabolism",15,2.5452,6,0.029042,1.537,1,0.41795,0.05291
+"Pantothenate and CoA biosynthesis",19,3.2239,7,0.029854,1.525,1,0.41795,0.325
+"D-Glutamine and D-glutamate metabolism",6,1.0181,3,0.064858,1.188,1,0.7783,1
+"Propanoate metabolism",23,3.9026,7,0.07952,1.0995,1,0.80989,0.24365
+"Alanine, aspartate and glutamate metabolism",28,4.751,8,0.086774,1.0616,1,0.80989,0.42309
+"beta-Alanine metabolism",21,3.5632,6,0.13027,0.88517,1,1,0.72015
+"Synthesis and degradation of ketone bodies",5,0.84839,2,0.20187,0.69493,1,1,0.26667
+"Valine, leucine and isoleucine degradation",40,6.7871,9,0.22599,0.64591,1,1,0.15839
+"Glycerolipid metabolism",16,2.7148,4,0.28177,0.55011,1,1,0.10592
+"Arginine and proline metabolism",38,6.4477,8,0.30991,0.50877,1,1,0.28812
+"Pyrimidine metabolism",39,6.6174,8,0.3374,0.47186,1,1,0.20675
+"Steroid hormone biosynthesis",85,14.423,16,0.36461,0.43817,1,1,0.13414
+"Pentose and glucuronate interconversions",18,3.0542,4,0.36529,0.43736,1,1,0.39062
+"Ascorbate and aldarate metabolism",8,1.3574,2,0.40491,0.39265,1,1,1
+"Glycerophospholipid metabolism",36,6.1084,7,0.41221,0.38488,1,1,0.44638
+"Fructose and mannose metabolism",20,3.3935,4,0.44839,0.34835,1,1,0.2067
+"Sphingolipid metabolism",21,3.5632,4,0.48872,0.31094,1,1,0.05274
+"Glycine, serine and threonine metabolism",33,5.5994,6,0.49832,0.30249,1,1,0.23523
+"D-Arginine and D-ornithine metabolism",4,0.67871,1,0.52506,0.2798,1,1,0
+"Pentose phosphate pathway",22,3.7329,4,0.5278,0.27753,1,1,0.22043
+"Purine metabolism",65,11.029,11,0.55754,0.25372,1,1,0.09305
+"Inositol phosphate metabolism",30,5.0903,5,0.59455,0.22581,1,1,0
+"Linoleic acid metabolism",5,0.84839,1,0.60585,0.21763,1,1,0
+"Nitrogen metabolism",6,1.0181,1,0.67295,0.17202,1,1,0
+"Primary bile acid biosynthesis",46,7.8052,7,0.68735,0.16282,1,1,0.12052
+"Arginine biosynthesis",14,2.3755,2,0.71544,0.14543,1,1,0.11675
+"Taurine and hypotaurine metabolism",8,1.3574,1,0.7749,0.11075,1,1,0.42857
+"Amino sugar and nucleotide sugar metabolism",37,6.2781,5,0.77921,0.10834,1,1,0.1288
+"One carbon pool by folate",9,1.5271,1,0.8133,0.089751,1,1,0
+"Vitamin B6 metabolism",9,1.5271,1,0.8133,0.089751,1,1,0.4902
+"Terpenoid backbone biosynthesis",18,3.0542,2,0.83698,0.077286,1,1,0.08254
+"Cysteine and methionine metabolism",33,5.5994,4,0.83769,0.076916,1,1,0.04179
+"Tyrosine metabolism",42,7.1265,5,0.86603,0.062467,1,1,0.00751
+"Selenocompound metabolism",20,3.3935,2,0.87821,0.056402,1,1,0
+"Glutathione metabolism",28,4.751,3,0.87889,0.056065,1,1,0.27562
+"Porphyrin and chlorophyll metabolism",30,5.0903,3,0.90659,0.042589,1,1,0.02799
+"alpha-Linolenic acid metabolism",13,2.2058,1,0.91175,0.040124,1,1,0
+"Glycosylphosphatidylinositol (GPI)-anchor biosynthesis",14,2.3755,1,0.92685,0.03299,1,1,0.00399
+"Histidine metabolism",16,2.7148,1,0.94976,0.022385,1,1,0
+"Mannose type O-glycan biosynthesis",17,2.8845,1,0.95838,0.018464,1,1,0
+"Arachidonic acid metabolism",36,6.1084,2,0.99025,0.004253,1,1,0.11124
+"Lysine degradation",25,4.2419,1,0.9908,0.004014,1,1,0
+"Fatty acid biosynthesis",47,7.9748,3,0.99179,0.0035797,1,1,0.00213
+"Aminoacyl-tRNA biosynthesis",48,8.1445,3,0.99295,0.0030712,1,1,0
+"Galactose metabolism",27,4.5813,1,0.9937,0.0027445,1,1,0.03577
+"Folate biosynthesis",27,4.5813,1,0.9937,0.0027445,1,1,0.09111
+"Phosphatidylinositol signaling system",28,4.751,1,0.99479,0.0022693,1,1,0.00152
+"Tryptophan metabolism",41,6.9568,2,0.99578,0.001838,1,1,0.00202
+"Fatty acid degradation",39,6.6174,1,0.99936,0.00027883,1,1,0.18092
+"Fatty acid elongation",39,6.6174,1,0.99936,0.00027883,1,1,0.25661
+"N-Glycan biosynthesis",41,6.9568,1,0.99956,0.00019016,1,1,0
+"Steroid biosynthesis",42,7.1265,1,0.99964,0.00015701,1,1,0

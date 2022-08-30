@@ -1,0 +1,24 @@
+"","Total","Expected","Hits","Raw p","-log10(p)","Holm adjust","FDR","Impact"
+"Arachidonic acid metabolism",36,2.6013,9,0.00069884,3.1556,0.058702,0.058702,0.08092
+"Caffeine metabolism",10,0.72258,2,0.15933,0.79769,1,1,0
+"Riboflavin metabolism",4,0.28903,1,0.25941,0.58601,1,1,0
+"Steroid hormone biosynthesis",85,6.1419,8,0.26722,0.57313,1,1,0.02034
+"Linoleic acid metabolism",5,0.36129,1,0.31306,0.50437,1,1,0
+"Tyrosine metabolism",42,3.0348,4,0.36063,0.44293,1,1,0.15993
+"Pentose and glucuronate interconversions",18,1.3006,2,0.37783,0.4227,1,1,0.26562
+"Ascorbate and aldarate metabolism",8,0.57806,1,0.45197,0.34489,1,1,0.5
+"Sphingolipid metabolism",21,1.5174,2,0.45548,0.34153,1,1,0.26978
+"Glycerophospholipid metabolism",36,2.6013,3,0.48917,0.31054,1,1,0.21631
+"Amino sugar and nucleotide sugar metabolism",37,2.6735,3,0.50797,0.29416,1,1,0.04684
+"Phenylalanine metabolism",10,0.72258,1,0.52871,0.27678,1,1,0
+"alpha-Linolenic acid metabolism",13,0.93935,1,0.6243,0.20461,1,1,0
+"Glycosylphosphatidylinositol (GPI)-anchor biosynthesis",14,1.0116,1,0.65168,0.18597,1,1,0.00399
+"Ether lipid metabolism",20,1.4452,1,0.77902,0.10845,1,1,0.14458
+"Lysine degradation",25,1.8065,1,0.84897,0.071107,1,1,0
+"Primary bile acid biosynthesis",46,3.3239,2,0.85857,0.066226,1,1,0.05456
+"Alanine, aspartate and glutamate metabolism",28,2.0232,1,0.87988,0.055576,1,1,0
+"Biosynthesis of unsaturated fatty acids",36,2.6013,1,0.93493,0.029223,1,1,0
+"Pyrimidine metabolism",39,2.8181,1,0.94833,0.023039,1,1,0
+"N-Glycan biosynthesis",41,2.9626,1,0.95571,0.019673,1,1,0.05732
+"Steroid biosynthesis",42,3.0348,1,0.959,0.018182,1,1,0.00344
+"Purine metabolism",65,4.6968,1,0.99314,0.0029874,1,1,0

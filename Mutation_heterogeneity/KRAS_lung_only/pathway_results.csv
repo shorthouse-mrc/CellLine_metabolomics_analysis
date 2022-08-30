@@ -1,0 +1,28 @@
+"","Total","Expected","Hits","Raw p","-log10(p)","Holm adjust","FDR","Impact"
+"Pentose and glucuronate interconversions",18,1.1381,6,0.00054729,3.2618,0.045973,0.045973,0.45312
+"Linoleic acid metabolism",5,0.31613,3,0.0022347,2.6508,0.18548,0.093857,0
+"Glycerophospholipid metabolism",36,2.2761,5,0.072135,1.1419,1,1,0.37543
+"Ascorbate and aldarate metabolism",8,0.50581,2,0.086328,1.0638,1,1,0
+"Alanine, aspartate and glutamate metabolism",28,1.7703,4,0.095708,1.0191,1,1,0.10817
+"Pantothenate and CoA biosynthesis",19,1.2013,3,0.11379,0.9439,1,1,0.46785
+"Pentose phosphate pathway",22,1.391,3,0.15817,0.80088,1,1,0.06894
+"Riboflavin metabolism",4,0.2529,1,0.23011,0.63806,1,1,0
+"Histidine metabolism",16,1.0116,2,0.26842,0.57118,1,1,0.21311
+"Sphingolipid metabolism",21,1.3277,2,0.38736,0.41189,1,1,0.26978
+"Purine metabolism",65,4.1097,5,0.3934,0.40517,1,1,0.08572
+"Tyrosine metabolism",42,2.6555,3,0.5028,0.2986,1,1,0.15686
+"Galactose metabolism",27,1.7071,2,0.51793,0.28573,1,1,0
+"Glutathione metabolism",28,1.7703,2,0.53788,0.26932,1,1,0.04752
+"alpha-Linolenic acid metabolism",13,0.82194,1,0.57365,0.24136,1,1,0
+"Glycosylphosphatidylinositol (GPI)-anchor biosynthesis",14,0.88516,1,0.60083,0.22125,1,1,0.00399
+"Glycerolipid metabolism",16,1.0116,1,0.65016,0.18698,1,1,0.01246
+"Amino sugar and nucleotide sugar metabolism",37,2.3394,2,0.69152,0.1602,1,1,0.04254
+"Arginine and proline metabolism",38,2.4026,2,0.70574,0.15135,1,1,0.08131
+"Pyrimidine metabolism",39,2.4658,2,0.71942,0.14302,1,1,0.03065
+"Fructose and mannose metabolism",20,1.2645,1,0.73142,0.13583,1,1,0.03313
+"beta-Alanine metabolism",21,1.3277,1,0.74862,0.12574,1,1,0.05597
+"Primary bile acid biosynthesis",46,2.9084,2,0.80098,0.096376,1,1,0.01954
+"Folate biosynthesis",27,1.7071,1,0.83118,0.080305,1,1,0
+"Phosphatidylinositol signaling system",28,1.7703,1,0.84204,0.074666,1,1,0.00152
+"Arachidonic acid metabolism",36,2.2761,1,0.90737,0.042216,1,1,0
+"Tryptophan metabolism",41,2.5923,1,0.93374,0.029773,1,1,0

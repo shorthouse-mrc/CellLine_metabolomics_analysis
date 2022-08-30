@@ -1,0 +1,25 @@
+"","Total","Expected","Hits","Raw p","-log10(p)","Holm adjust","FDR","Impact"
+"Glycerophospholipid metabolism",36,0.83613,4,0.0085028,2.0704,0.71424,0.71424,0.36305
+"Biosynthesis of unsaturated fatty acids",36,0.83613,3,0.048598,1.3134,1,1,0
+"Amino sugar and nucleotide sugar metabolism",37,0.85935,3,0.052058,1.2835,1,1,0.15808
+"Pentose and glucuronate interconversions",18,0.41806,2,0.063574,1.1967,1,1,0.07812
+"Linoleic acid metabolism",5,0.11613,1,0.111,0.9547,1,1,0
+"Galactose metabolism",27,0.6271,2,0.12822,0.89206,1,1,0.03463
+"Ascorbate and aldarate metabolism",8,0.18581,1,0.17174,0.76513,1,1,0
+"alpha-Linolenic acid metabolism",13,0.30194,1,0.26413,0.57818,1,1,0
+"Arginine biosynthesis",14,0.32516,1,0.28136,0.55073,1,1,0
+"Glycosylphosphatidylinositol (GPI)-anchor biosynthesis",14,0.32516,1,0.28136,0.55073,1,1,0.00399
+"Glycerolipid metabolism",16,0.37161,1,0.31467,0.50215,1,1,0.01246
+"Starch and sucrose metabolism",18,0.41806,1,0.34647,0.46034,1,1,0.00974
+"Fructose and mannose metabolism",20,0.46452,1,0.37683,0.42386,1,1,0.06211
+"Sphingolipid metabolism",21,0.48774,1,0.39149,0.40728,1,1,0.0142
+"Pyruvate metabolism",22,0.51097,1,0.40582,0.39167,1,1,0
+"Lysine degradation",25,0.58065,1,0.44686,0.34983,1,1,0.15023
+"Phosphatidylinositol signaling system",28,0.65032,1,0.48514,0.31413,1,1,0.00152
+"Arachidonic acid metabolism",36,0.83613,1,0.57506,0.24029,1,1,0
+"Arginine and proline metabolism",38,0.88258,1,0.59504,0.22546,1,1,0
+"Fatty acid elongation",39,0.90581,1,0.60468,0.21848,1,1,0
+"Fatty acid degradation",39,0.90581,1,0.60468,0.21848,1,1,0
+"Fatty acid biosynthesis",47,1.0916,1,0.67418,0.17122,1,1,0.01473
+"Purine metabolism",65,1.5097,1,0.78993,0.10241,1,1,0
+"Steroid hormone biosynthesis",85,1.9742,1,0.87182,0.059571,1,1,0
